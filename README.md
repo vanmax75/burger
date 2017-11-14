@@ -8,11 +8,13 @@ https://agile-peak-20091.herokuapp.com/
 
 
 
-Screen Shots
+# Screen Shots
+
+Main menu
 
 ![screen-burger](https://user-images.githubusercontent.com/26443871/32754930-c9f72558-c887-11e7-9f95-9fd65ab00a89.PNG)
 
-
+screen shot 2
 
 
 ![screen-burger2](https://user-images.githubusercontent.com/26443871/32754941-d30e04fe-c887-11e7-946d-9836191c2049.PNG)
